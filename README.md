@@ -1,1 +1,2 @@
-# zbadw.github.io
+theme: jekyll-theme-minimal
+# Fist time
